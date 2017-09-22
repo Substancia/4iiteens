@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 4iiteens - home</title>
-    <link>https://github.com/Substancia/4iiteens/post/</link>
+    <link>https://substancia.github.io/4iiteens/post/</link>
     <description>Recent content in Posts on 4iiteens - home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
     
-	<atom:link href="https://github.com/Substancia/4iiteens/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://substancia.github.io/4iiteens/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first</title>
-      <link>https://github.com/Substancia/4iiteens/post/first/</link>
+      <link>https://substancia.github.io/4iiteens/post/first/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>https://github.com/Substancia/4iiteens/post/first/</guid>
+      <guid>https://substancia.github.io/4iiteens/post/first/</guid>
       <description>Here is your fist post. The img value contain path to the image of this post Then place a matching image in static/img - e.g. static/img/dog.png</description>
     </item>
     

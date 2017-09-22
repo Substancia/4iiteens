@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on 4iiteens - home</title>
-    <link>https://github.com/Substancia/4iiteens/about/</link>
+    <link>https://substancia.github.io/4iiteens/about/</link>
     <description>Recent content in Abouts on 4iiteens - home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
     
-	<atom:link href="https://github.com/Substancia/4iiteens/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://substancia.github.io/4iiteens/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>https://github.com/Substancia/4iiteens/about/about/</link>
+      <link>https://substancia.github.io/4iiteens/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>https://github.com/Substancia/4iiteens/about/about/</guid>
+      <guid>https://substancia.github.io/4iiteens/about/about/</guid>
       <description>WidgetCo is the world leader in widget production.</description>
     </item>
     
