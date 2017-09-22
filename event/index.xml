@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on 4iiteens - home</title>
-    <link>https://substancia.github.io/4iiteens/event/</link>
+    <link>https://github.com/Substancia/4iiteens/event/</link>
     <description>Recent content in Events on 4iiteens - home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Sep 2017 22:12:36 +0530</lastBuildDate>
     
-	<atom:link href="https://substancia.github.io/4iiteens/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Substancia/4iiteens/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mock test</title>
-      <link>https://substancia.github.io/4iiteens/event/mock-test/</link>
+      <link>https://github.com/Substancia/4iiteens/event/mock-test/</link>
       <pubDate>Sun, 17 Sep 2017 22:12:36 +0530</pubDate>
       
-      <guid>https://substancia.github.io/4iiteens/event/mock-test/</guid>
+      <guid>https://github.com/Substancia/4iiteens/event/mock-test/</guid>
       <description>We are going to conduct a mock test.
 Better take part, sucker.</description>
     </item>
