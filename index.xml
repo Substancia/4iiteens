@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4iiteens - home</title>
-    <link>http://yourdomain.com/</link>
+    <link>http://substancia.github.io/4iiteens/</link>
     <description>Recent content on 4iiteens - home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:30 +0200</lastBuildDate>
     
-	<atom:link href="http://yourdomain.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://substancia.github.io/4iiteens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nataraj Ponnusamy</title>
-      <link>http://yourdomain.com/post/second/</link>
+      <link>http://substancia.github.io/4iiteens/post/second/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:30 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/second/</guid>
+      <guid>http://substancia.github.io/4iiteens/post/second/</guid>
       <description>A chemistry professor and researched well-versed in tutoring students to qualify for international level chemistry olimpiads and IIT-JEE. He has a work experience of 15 years and running. In the past 2 years, he has managed to provide a student with silver medal International Chemistry Olympiad (ICHO) and also produced 4 students below rank of 50 in IIT-JEE.</description>
     </item>
     
     <item>
       <title>Subba Rao</title>
-      <link>http://yourdomain.com/post/first/</link>
+      <link>http://substancia.github.io/4iiteens/post/first/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/first/</guid>
+      <guid>http://substancia.github.io/4iiteens/post/first/</guid>
       <description>A physics professor, enterpreneur and researcher, is an experienced mentor for students persuing various physics olympiads and IIT-JEE. He has a work experience of 13 years and running. He has managed to produce studens with best ranks of 19 and 42 among under 50 in the past 3 years.</description>
     </item>
     
     <item>
       <title>Mock test</title>
-      <link>http://yourdomain.com/event/mock-test/</link>
+      <link>http://substancia.github.io/4iiteens/event/mock-test/</link>
       <pubDate>Sun, 17 Sep 2017 22:12:36 +0530</pubDate>
       
-      <guid>http://yourdomain.com/event/mock-test/</guid>
+      <guid>http://substancia.github.io/4iiteens/event/mock-test/</guid>
       <description>We are going to conduct a mock test.
 Better take part, sucker.</description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>http://yourdomain.com/about/about/</link>
+      <link>http://substancia.github.io/4iiteens/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://yourdomain.com/about/about/</guid>
+      <guid>http://substancia.github.io/4iiteens/about/about/</guid>
       <description>Education is still a dream to many. To be able to study amongst the best students in best in the best universities even more so. Traditional methods of learning can only get you so far.
 We, at 4iiteens want to provide you with the most innovative mode of education at minimal cost. We are here to provied both schooling and to make sure you have the best odds to get into the premier univerities in India and the world.</description>
     </item>

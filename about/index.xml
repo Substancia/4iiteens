@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on 4iiteens - home</title>
-    <link>http://yourdomain.com/about/</link>
+    <link>http://substancia.github.io/4iiteens/about/</link>
     <description>Recent content in Abouts on 4iiteens - home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
     
-	<atom:link href="http://yourdomain.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://substancia.github.io/4iiteens/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>http://yourdomain.com/about/about/</link>
+      <link>http://substancia.github.io/4iiteens/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://yourdomain.com/about/about/</guid>
+      <guid>http://substancia.github.io/4iiteens/about/about/</guid>
       <description>Education is still a dream to many. To be able to study amongst the best students in best in the best universities even more so. Traditional methods of learning can only get you so far.
 We, at 4iiteens want to provide you with the most innovative mode of education at minimal cost. We are here to provied both schooling and to make sure you have the best odds to get into the premier univerities in India and the world.</description>
     </item>
