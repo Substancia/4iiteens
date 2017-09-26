@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 4iiteens - home</title>
-    <link>https://substancia.github.io/4iiteens/post/</link>
+    <link>http://yourdomain.com/post/</link>
     <description>Recent content in Posts on 4iiteens - home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:30 +0200</lastBuildDate>
     
-	<atom:link href="https://substancia.github.io/4iiteens/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yourdomain.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>first</title>
-      <link>https://substancia.github.io/4iiteens/post/first/</link>
+      <title>Nataraj Ponnusamy</title>
+      <link>http://yourdomain.com/post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:30 +0200</pubDate>
+      
+      <guid>http://yourdomain.com/post/second/</guid>
+      <description>A chemistry professor and researched well-versed in tutoring students to qualify for international level chemistry olimpiads and IIT-JEE. He has a work experience of 15 years and running. In the past 2 years, he has managed to provide a student with silver medal International Chemistry Olympiad (ICHO) and also produced 4 students below rank of 50 in IIT-JEE.</description>
+    </item>
+    
+    <item>
+      <title>Subba Rao</title>
+      <link>http://yourdomain.com/post/first/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>https://substancia.github.io/4iiteens/post/first/</guid>
-      <description>Here is your fist post. The img value contain path to the image of this post Then place a matching image in static/img - e.g. static/img/dog.png</description>
+      <guid>http://yourdomain.com/post/first/</guid>
+      <description>A physics professor, enterpreneur and researcher, is an experienced mentor for students persuing various physics olympiads and IIT-JEE. He has a work experience of 13 years and running. He has managed to produce studens with best ranks of 19 and 42 among under 50 in the past 3 years.</description>
     </item>
     
   </channel>
