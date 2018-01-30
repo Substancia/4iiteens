@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on 4iiteens - home</title>
-    <link>https://hugolaunch.github.io/event/</link>
+    <link>/event/</link>
     <description>Recent content in Events on 4iiteens - home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Sep 2017 22:12:36 +0530</lastBuildDate>
     
-	<atom:link href="https://hugolaunch.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mock test</title>
-      <link>https://hugolaunch.github.io/event/mock-test/</link>
+      <link>/event/mock-test/</link>
       <pubDate>Sun, 17 Sep 2017 22:12:36 +0530</pubDate>
       
-      <guid>https://hugolaunch.github.io/event/mock-test/</guid>
-      <description>&amp;lt;&amp;hellip;Info to be filled&amp;hellip;&amp;gt;</description>
+      <guid>/event/mock-test/</guid>
+      <description>IItians conduct aptitude, competative level examinations for students of class VI to XII. We sponsor them and support them in all technical ways and provide them with enough manpower to conduct these examinations. The registration fee set for each examination is Rs.100 and the following are the details of the examination:-    6th ,7th standards  - aptitude examinations   8th ,9th standards  - NSEJS   10th standard  - NTSE   11th standard  - KVPY-SA   12th standard  - KVPY-SB</description>
     </item>
     
   </channel>
